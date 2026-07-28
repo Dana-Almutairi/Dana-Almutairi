@@ -71,14 +71,3 @@ An award-winning project focused on promoting cybersecurity awareness among peop
 ## Connect With Me
 - LinkedIn: [Dana Almutairi](https://www.linkedin.com/in/dana-almutairi/)
 - Email: [dana.almutairi.work@gmail.com](mailto:dana.almutairi.work@gmail.com)
-
-
-
-
-
-
-
-
-
-
-- ث

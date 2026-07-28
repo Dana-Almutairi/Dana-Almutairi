@@ -69,5 +69,5 @@ An award-winning project focused on promoting cybersecurity awareness among peop
 - Master Python (Arabic) – Udemy (2024).
 
 ## Connect With Me
-- LinkedIn: linkedin.com/in/dana-almutairi/
-- Email: dana.almutairi.work@gmail.com
+- LinkedIn: [Dana Almutairi](https://www.linkedin.com/in/dana-almutairi/)
+[dana.almutairi.work@gmail.com](mailto:dana.almutairi.work@gmail.com)
